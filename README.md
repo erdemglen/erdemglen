@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @erdemglen
 - 👀 I’m interested in technology.
-- 🌱 I’m currently learning phyton.
+- 🌱 I’m currently learning phyton, Adobe Illustrator and basic drawing.
 - 💞️ I’m looking to collaborate on startups.
-- 📫 How to reach me erdemgulen@gmail.com
-- 😄 Pronouns: he/him
+- 📫 How to reach me erdemgulen@gmail.com.
+- 👨‍💻 You can find me at Linkedin https://www.linkedin.com/in/erdemgulen/
 - ⚡ Fun fact: I am 43 years old and I have just started learning coding.
+
 
 <!---
 erdemglen/erdemglen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
