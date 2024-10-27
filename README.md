@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @erdemgulen
+- 👋 Hi, I’m @erdem
 - 👀 I’m interested in technology.
 - 🌱 I’m currently learning Phyton, HTML5, Adobe Illustrator and basic drawing.
 - 💞️ I’m looking to collaborate on startups.
