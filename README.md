@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @erdemgulen
 - 👀 I’m interested in technology.
-- 🌱 I’m currently learning phyton, Adobe Illustrator and basic drawing.
+- 🌱 I’m currently learning Phyton, HTML5, Adobe Illustrator and basic drawing.
 - 💞️ I’m looking to collaborate on startups.
 - 📫 How to reach me erdemgulen@gmail.com.
 - 👨‍💻 You can find me at Linkedin https://www.linkedin.com/in/erdemgulen/
