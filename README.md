@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on startups.
 - 📫 How to reach me erdemgulen@gmail.com.
 - 👨‍💻 You can find me at Linkedin https://www.linkedin.com/in/erdemgulen/
-- ⚡ Fun fact: I am 43 years old and I have just started learning coding.
+- ⚡ Fun fact: I am 44 years old and I have started learning coding after 43 yo.
 
 
 <!---
