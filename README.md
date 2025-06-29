@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @erdem
 - 👀 I’m interested in technology.
-- 🌱 I’m currently learning Pyhton, Swift, TS, JS, C#, HTML5, CSS 
+- 🌱 I’m currently learning Pyhton, Swift, TS, JS, C#, HTML5, CSS and vibecoding.
 - 💞️ I’m looking to collaborate on startups.
 - 📫 How to reach me erdemgulen@gmail.com.
 - 👨‍💻 You can find me at Linkedin https://www.linkedin.com/in/erdemgulen/
